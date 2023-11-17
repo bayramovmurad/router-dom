@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    color: red;
+}
+
+h1,h2,li,a,button,div,span,p{
+    color: white;
+}
